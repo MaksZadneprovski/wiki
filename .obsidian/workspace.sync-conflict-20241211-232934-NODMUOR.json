@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "cca2fb62271c40d1",
+            "id": "edbee29a4d5a6d64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Пароли.md",
+                "file": "J1939.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,15 +36,12 @@
             }
           },
           {
-            "id": "8a5e2b22946c3d3b",
+            "id": "60cbc10f14368007",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "JPA (Java Persistence API).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "files/SAEJ1939_71_март2011.pdf"
               }
             }
           }
@@ -78,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "паро",
+                "query": "spn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JPA (Java Persistence API).md",
+                "file": "files/SAEJ1939_71_март2011.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JPA (Java Persistence API).md",
+                "file": "files/SAEJ1939_71_март2011.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JPA (Java Persistence API).md"
+                "file": "files/SAEJ1939_71_март2011.pdf"
               }
             }
           }
@@ -179,54 +176,54 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "8a5e2b22946c3d3b",
+  "active": "60cbc10f14368007",
   "lastOpenFiles": [
-    "Работа с базами данных в Java.md",
-    "JPA (Java Persistence API).md",
-    "Пароли.md",
-    "Вещества с одинаковой химической формулой, но различной пространственной ориентацией.md",
+    "Сравнение ARM и RISC-V.md",
+    "~syncthing~Архитектура процессоров.md.tmp",
+    "~syncthing~Сравнение ARM и RISC-V.md.tmp",
+    "~syncthing~RISC-V.md.tmp",
+    "ARM.md",
+    "RISC-V.md",
+    "~syncthing~ARM.md.tmp",
+    "CISC.md",
+    "~syncthing~CISC.md.tmp",
+    "RISC.md",
+    "~syncthing~RISC.md.tmp",
+    "Архитектура процессоров.md",
+    "~syncthing~Computer science.md.tmp",
+    "Блок BCM.md",
+    "Блок Keyless.md",
+    "~syncthing~Блок BCM.md.tmp",
+    "~syncthing~Блок Keyless.md.tmp",
+    "J1939.md",
+    "files/SAEJ1939_71_март2011.pdf",
+    "CAN.md",
+    "Path.md",
+    "Memory-Mapped I-O (MMIO).md",
+    "Подавление помех в бортовой сети автомобиля.md",
+    "Виды физической памяти и их отличия.md",
+    "MMU и MPU.md",
+    "JTAG и SWD.md",
+    "GET запрос.md",
+    "XAML.md",
+    "CSharp.md",
     "Computer science.md",
-    "Код Баркера.md",
-    "Автокорреляционная функция.md",
-    "Лямбда-выражения.md",
-    "Автомобильные системы.md",
-    "Start.md",
-    "Распиновка UC.md",
-    "C++.md",
-    "Singleton (Синглтон).md",
-    "Трейлинг-синтаксис.md",
-    "~syncthing~OTUS.md.tmp",
-    "Измерение времени.md",
-    "Ленивая передача зависимости (Lazy Dependency Injection).md",
-    "Написание плагинов.md",
-    "RG.md",
-    "RgPowerConfigurator.md",
     "Руководство Google по стилю в C++ 2019 — 2024.md",
-    "Активация Windows 11.md",
-    "~syncthing~Линейная  алгебра.md.tmp",
-    "~syncthing~Активация Windows 11.md.tmp",
-    "files/~syncthing~Database.kdbx.tmp",
-    "Статические переменные внутри класса.md",
+    "ItemsControl.md",
+    "TargetNullValue.md",
+    "Source и RelativeSource.md",
+    "UpdateSourceTrigger.md",
+    "Проблема затормаживания мыши.md",
+    "files/Pasted image 20241117221305.png",
+    "files/Pasted image 20241115135544.png",
+    "files/Pasted image 20241115135322.png",
+    "files/Pasted image 20241115135307.png",
+    "files/Pasted image 20241115135247.png",
+    "files/Pasted image 20241115135220.png",
+    "files/Pasted image 20241115135201.png",
+    "files/Pasted image 20241115132942.png",
+    "files/Pasted image 20241115132921.png",
     "files/Pasted image 20241016200337.png",
-    "files/Pasted image 20241016200229.png",
-    "files/~syncthing~Pasted image 20241016200337.png.tmp",
-    "files/~syncthing~Pasted image 20241016200229.png.tmp",
-    "files/Pasted image 20241016200201.png",
-    "files/~syncthing~Pasted image 20241016200201.png.tmp",
-    "files/Pasted image 20241016200120.png",
-    "files/~syncthing~Pasted image 20241016200120.png.tmp",
-    "Линейная регрессия.md",
-    "Градиентный спуск.md",
-    "~syncthing~Линейная регрессия.md.tmp",
-    "~syncthing~Градиентный спуск.md.tmp",
-    "files/Pasted image 20241015231153.png",
-    "files/Pasted image 20241015231543.png",
-    "files/Pasted image 20241015231445.png",
-    "files/Pasted image 20241015223024.png",
-    "files/Pasted image 20241015230937.png",
-    "files/Pasted image 20241015223120.png",
-    "Итерация по массиву C++.md",
-    "Векторное произведение.md",
     "Без названия.canvas",
     "Untitled.canvas"
   ]

@@ -19,39 +19,30 @@
                 "backlinks": true,
                 "source": false
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Computer science"
+              "pinned": true
             }
           },
           {
-            "id": "09654ca93cfdb1e7",
+            "id": "edbee29a4d5a6d64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Name Mangling.md",
+                "file": "J1939.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Name Mangling"
+              }
             }
           },
           {
-            "id": "7594f3c6e5a125a2",
+            "id": "60cbc10f14368007",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "pydantic.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pydantic"
+                "file": "files/SAEJ1939_71_март2011.pdf"
+              }
             }
           }
         ],
@@ -75,9 +66,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -86,15 +75,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "лямб",
+                "query": "spn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -102,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ],
@@ -128,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Прошивка ЭБУ.md",
+                "file": "files/SAEJ1939_71_март2011.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,9 +121,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Прошивка ЭБУ"
+              }
             }
           },
           {
@@ -147,12 +130,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Прошивка ЭБУ.md",
+                "file": "files/SAEJ1939_71_март2011.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Прошивка ЭБУ"
+              }
             }
           },
           {
@@ -163,9 +144,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -174,10 +153,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pydantic.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of pydantic"
+                "file": "files/SAEJ1939_71_март2011.pdf"
+              }
             }
           }
         ],
@@ -189,64 +166,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "7594f3c6e5a125a2",
+  "active": "60cbc10f14368007",
   "lastOpenFiles": [
-    "Name Mangling.md",
-    "pydantic.md",
-    "Python.md",
+    "~syncthing~Архитектура процессоров.md.tmp",
+    "~syncthing~AVR.md.tmp",
+    "AVR.md",
+    "~syncthing~Сравнение ARM и RISC-V.md.tmp",
+    "Сравнение ARM и RISC-V.md",
+    "~syncthing~RISC-V.md.tmp",
+    "ARM.md",
+    "RISC-V.md",
+    "~syncthing~ARM.md.tmp",
+    "CISC.md",
+    "~syncthing~CISC.md.tmp",
+    "RISC.md",
+    "~syncthing~RISC.md.tmp",
+    "Архитектура процессоров.md",
+    "~syncthing~Computer science.md.tmp",
+    "Блок BCM.md",
+    "Блок Keyless.md",
+    "~syncthing~Блок BCM.md.tmp",
+    "~syncthing~Блок Keyless.md.tmp",
+    "J1939.md",
+    "CAN.md",
+    "Path.md",
+    "Memory-Mapped I-O (MMIO).md",
+    "Подавление помех в бортовой сети автомобиля.md",
+    "Виды физической памяти и их отличия.md",
+    "MMU и MPU.md",
+    "JTAG и SWD.md",
+    "GET запрос.md",
+    "XAML.md",
+    "CSharp.md",
     "Computer science.md",
-    "Лямбда-выражения.md",
-    "EEPROM в блоках управления.md",
-    "Прошивка ЭБУ.md",
-    "Диагностика механической части двигателя.md",
-    "files/Pasted image 20241117221305.png",
-    "python - dir().md",
-    "Распиновка UC.md",
-    "C++.md",
-    "Singleton (Синглтон).md",
-    "Трейлинг-синтаксис.md",
-    "~syncthing~OTUS.md.tmp",
-    "Измерение времени.md",
-    "Ленивая передача зависимости (Lazy Dependency Injection).md",
-    "Написание плагинов.md",
-    "RG.md",
-    "RgPowerConfigurator.md",
     "Руководство Google по стилю в C++ 2019 — 2024.md",
-    "Активация Windows 11.md",
-    "~syncthing~Линейная  алгебра.md.tmp",
-    "~syncthing~Активация Windows 11.md.tmp",
-    "files/~syncthing~Database.kdbx.tmp",
-    "Статические переменные внутри класса.md",
+    "ItemsControl.md",
+    "TargetNullValue.md",
+    "Source и RelativeSource.md",
+    "files/Pasted image 20241117221305.png",
+    "files/Pasted image 20241115135544.png",
+    "files/Pasted image 20241115135322.png",
+    "files/Pasted image 20241115135307.png",
+    "files/Pasted image 20241115135247.png",
+    "files/Pasted image 20241115135220.png",
+    "files/Pasted image 20241115135201.png",
+    "files/Pasted image 20241115132942.png",
+    "files/Pasted image 20241115132921.png",
     "files/Pasted image 20241016200337.png",
-    "files/Pasted image 20241016200229.png",
-    "files/~syncthing~Pasted image 20241016200337.png.tmp",
-    "files/~syncthing~Pasted image 20241016200229.png.tmp",
-    "files/Pasted image 20241016200201.png",
-    "files/~syncthing~Pasted image 20241016200201.png.tmp",
-    "files/Pasted image 20241016200120.png",
-    "files/~syncthing~Pasted image 20241016200120.png.tmp",
-    "Линейная регрессия.md",
-    "Градиентный спуск.md",
-    "~syncthing~Линейная регрессия.md.tmp",
-    "~syncthing~Градиентный спуск.md.tmp",
-    "files/Pasted image 20241015231153.png",
-    "files/Pasted image 20241015231543.png",
-    "files/Pasted image 20241015231445.png",
-    "files/Pasted image 20241015223024.png",
-    "files/Pasted image 20241015230937.png",
-    "Итерация по массиву C++.md",
-    "Пароли.md",
-    "Векторное произведение.md",
     "Без названия.canvas",
     "Untitled.canvas"
   ]
