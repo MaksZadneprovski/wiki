@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "52ffc791a0eff659",
+    "type": "split",
+    "children": [
+      {
+        "id": "24c9321295ac08c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "584c6780d833bc70",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Computer science"
+            }
+          },
+          {
+            "id": "09654ca93cfdb1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Name Mangling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Name Mangling"
+            }
+          },
+          {
+            "id": "7594f3c6e5a125a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pydantic.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pydantic"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd2adc6aaed91694",
+    "type": "split",
+    "children": [
+      {
+        "id": "c232914f3f436511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8e5e60b658dc00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "413818ded50bd2ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "лямб",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "030f91301a79d3f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4cc78448835af07f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ebd7db850deb55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b49865f528bedd9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Прошивка ЭБУ.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Прошивка ЭБУ"
+            }
+          },
+          {
+            "id": "2348e36fe3260e04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Прошивка ЭБУ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Прошивка ЭБУ"
+            }
+          },
+          {
+            "id": "ae5113cf2ef7b380",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f34c6baee719fabe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pydantic.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of pydantic"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "3d-graph-new:Global 3D Graph": false
+    }
+  },
+  "active": "7594f3c6e5a125a2",
+  "lastOpenFiles": [
+    "Name Mangling.md",
+    "pydantic.md",
+    "Python.md",
+    "Computer science.md",
+    "Лямбда-выражения.md",
+    "EEPROM в блоках управления.md",
+    "Прошивка ЭБУ.md",
+    "Диагностика механической части двигателя.md",
+    "files/Pasted image 20241117221305.png",
+    "python - dir().md",
+    "Распиновка UC.md",
+    "C++.md",
+    "Singleton (Синглтон).md",
+    "Трейлинг-синтаксис.md",
+    "~syncthing~OTUS.md.tmp",
+    "Измерение времени.md",
+    "Ленивая передача зависимости (Lazy Dependency Injection).md",
+    "Написание плагинов.md",
+    "RG.md",
+    "RgPowerConfigurator.md",
+    "Руководство Google по стилю в C++ 2019 — 2024.md",
+    "Активация Windows 11.md",
+    "~syncthing~Линейная  алгебра.md.tmp",
+    "~syncthing~Активация Windows 11.md.tmp",
+    "files/~syncthing~Database.kdbx.tmp",
+    "Статические переменные внутри класса.md",
+    "files/Pasted image 20241016200337.png",
+    "files/Pasted image 20241016200229.png",
+    "files/~syncthing~Pasted image 20241016200337.png.tmp",
+    "files/~syncthing~Pasted image 20241016200229.png.tmp",
+    "files/Pasted image 20241016200201.png",
+    "files/~syncthing~Pasted image 20241016200201.png.tmp",
+    "files/Pasted image 20241016200120.png",
+    "files/~syncthing~Pasted image 20241016200120.png.tmp",
+    "Линейная регрессия.md",
+    "Градиентный спуск.md",
+    "~syncthing~Линейная регрессия.md.tmp",
+    "~syncthing~Градиентный спуск.md.tmp",
+    "files/Pasted image 20241015231153.png",
+    "files/Pasted image 20241015231543.png",
+    "files/Pasted image 20241015231445.png",
+    "files/Pasted image 20241015223024.png",
+    "files/Pasted image 20241015230937.png",
+    "Итерация по массиву C++.md",
+    "Пароли.md",
+    "Векторное произведение.md",
+    "Без названия.canvas",
+    "Untitled.canvas"
+  ]
+}

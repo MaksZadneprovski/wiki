@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "52ffc791a0eff659",
+    "type": "split",
+    "children": [
+      {
+        "id": "24c9321295ac08c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "584c6780d833bc70",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Computer science"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd2adc6aaed91694",
+    "type": "split",
+    "children": [
+      {
+        "id": "c232914f3f436511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8e5e60b658dc00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "413818ded50bd2ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "030f91301a79d3f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4cc78448835af07f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ebd7db850deb55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b49865f528bedd9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JTAG и SWD.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for JTAG и SWD"
+            }
+          },
+          {
+            "id": "2348e36fe3260e04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JTAG и SWD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from JTAG и SWD"
+            }
+          },
+          {
+            "id": "ae5113cf2ef7b380",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f34c6baee719fabe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer science.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Computer science"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "3d-graph-new:Global 3D Graph": false
+    }
+  },
+  "active": "584c6780d833bc70",
+  "lastOpenFiles": [
+    "Memory-Mapped I-O (MMIO).md",
+    "Память STM32.md",
+    "Виды физической памяти и их отличия.md",
+    "SRAM.md",
+    "Memory-Mapped I/O (MMIO).md",
+    "Memory-Mapped I",
+    "Computer science.md",
+    "STM32.md",
+    "Path.md",
+    "RAM память.md",
+    "EEPROM в блоках управления.md",
+    "Подавление помех в бортовой сети автомобиля.md",
+    "JTAG и SWD.md",
+    "MMU и MPU.md",
+    "GET запрос.md",
+    "~syncthing~GET запрос.md.tmp",
+    "XAML.md",
+    "CSharp.md",
+    "Руководство Google по стилю в C++ 2019 — 2024.md",
+    "ItemsControl.md",
+    "TargetNullValue.md",
+    "Source и RelativeSource.md",
+    "UpdateSourceTrigger.md",
+    "Проблема затормаживания мыши.md",
+    "Linux.md",
+    "Startup scripts для UC.md",
+    "Таблица векторов прерываний.md",
+    "Описание startup_stm32.s.md",
+    "files/Pasted image 20241117221305.png",
+    "~syncthing~Name Mangling.md.tmp",
+    "~syncthing~pydantic.md.tmp",
+    "~syncthing~Диагностика механической части двигателя.md.tmp",
+    "files/~syncthing~Pasted image 20241117221305.png.tmp",
+    "~syncthing~EEPROM в блоках управления.md.tmp",
+    "~syncthing~Прошивка ЭБУ.md.tmp",
+    "~syncthing~Python.md.tmp",
+    "~syncthing~python - dir().md.tmp",
+    "files/Pasted image 20241115135544.png",
+    "files/Pasted image 20241115135322.png",
+    "files/Pasted image 20241115135307.png",
+    "files/Pasted image 20241115135247.png",
+    "files/Pasted image 20241115135220.png",
+    "files/Pasted image 20241115135201.png",
+    "files/Pasted image 20241115132942.png",
+    "files/Pasted image 20241115132921.png",
+    "files/Pasted image 20241016200337.png",
+    "Без названия.canvas",
+    "Untitled.canvas"
+  ]
+}

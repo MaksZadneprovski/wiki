@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "52ffc791a0eff659",
+    "type": "split",
+    "children": [
+      {
+        "id": "24c9321295ac08c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "584c6780d833bc70",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "cca2fb62271c40d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Пароли.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a5e2b22946c3d3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPA (Java Persistence API).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd2adc6aaed91694",
+    "type": "split",
+    "children": [
+      {
+        "id": "c232914f3f436511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8e5e60b658dc00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "413818ded50bd2ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "паро",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "030f91301a79d3f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4cc78448835af07f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ebd7db850deb55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b49865f528bedd9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JPA (Java Persistence API).md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2348e36fe3260e04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JPA (Java Persistence API).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ae5113cf2ef7b380",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f34c6baee719fabe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JPA (Java Persistence API).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "3d-graph-new:Global 3D Graph": false
+    }
+  },
+  "active": "8a5e2b22946c3d3b",
+  "lastOpenFiles": [
+    "Работа с базами данных в Java.md",
+    "JPA (Java Persistence API).md",
+    "Пароли.md",
+    "Вещества с одинаковой химической формулой, но различной пространственной ориентацией.md",
+    "Computer science.md",
+    "Код Баркера.md",
+    "Автокорреляционная функция.md",
+    "Лямбда-выражения.md",
+    "Автомобильные системы.md",
+    "Start.md",
+    "Распиновка UC.md",
+    "C++.md",
+    "Singleton (Синглтон).md",
+    "Трейлинг-синтаксис.md",
+    "~syncthing~OTUS.md.tmp",
+    "Измерение времени.md",
+    "Ленивая передача зависимости (Lazy Dependency Injection).md",
+    "Написание плагинов.md",
+    "RG.md",
+    "RgPowerConfigurator.md",
+    "Руководство Google по стилю в C++ 2019 — 2024.md",
+    "Активация Windows 11.md",
+    "~syncthing~Линейная  алгебра.md.tmp",
+    "~syncthing~Активация Windows 11.md.tmp",
+    "files/~syncthing~Database.kdbx.tmp",
+    "Статические переменные внутри класса.md",
+    "files/Pasted image 20241016200337.png",
+    "files/Pasted image 20241016200229.png",
+    "files/~syncthing~Pasted image 20241016200337.png.tmp",
+    "files/~syncthing~Pasted image 20241016200229.png.tmp",
+    "files/Pasted image 20241016200201.png",
+    "files/~syncthing~Pasted image 20241016200201.png.tmp",
+    "files/Pasted image 20241016200120.png",
+    "files/~syncthing~Pasted image 20241016200120.png.tmp",
+    "Линейная регрессия.md",
+    "Градиентный спуск.md",
+    "~syncthing~Линейная регрессия.md.tmp",
+    "~syncthing~Градиентный спуск.md.tmp",
+    "files/Pasted image 20241015231153.png",
+    "files/Pasted image 20241015231543.png",
+    "files/Pasted image 20241015231445.png",
+    "files/Pasted image 20241015223024.png",
+    "files/Pasted image 20241015230937.png",
+    "files/Pasted image 20241015223120.png",
+    "Итерация по массиву C++.md",
+    "Векторное произведение.md",
+    "Без названия.canvas",
+    "Untitled.canvas"
+  ]
+}

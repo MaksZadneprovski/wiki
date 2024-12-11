@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "52ffc791a0eff659",
+    "type": "split",
+    "children": [
+      {
+        "id": "24c9321295ac08c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "584c6780d833bc70",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd2adc6aaed91694",
+    "type": "split",
+    "children": [
+      {
+        "id": "c232914f3f436511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8e5e60b658dc00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "413818ded50bd2ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "030f91301a79d3f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4cc78448835af07f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ebd7db850deb55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b49865f528bedd9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer science.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2348e36fe3260e04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer science.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ae5113cf2ef7b380",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f34c6baee719fabe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer science.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "3d-graph-new:Global 3D Graph": false
+    }
+  },
+  "active": "584c6780d833bc70",
+  "lastOpenFiles": [
+    "files/Pasted image 20241117221305.png",
+    "Name Mangling.md",
+    "pydantic.md",
+    "Диагностика механической части двигателя.md",
+    "Прошивка ЭБУ.md",
+    "EEPROM в блоках управления.md",
+    "python - dir().md",
+    "~syncthing~Name Mangling.md.tmp",
+    "~syncthing~pydantic.md.tmp",
+    "~syncthing~Диагностика механической части двигателя.md.tmp",
+    "files/~syncthing~Pasted image 20241117221305.png.tmp",
+    "~syncthing~EEPROM в блоках управления.md.tmp",
+    "~syncthing~Прошивка ЭБУ.md.tmp",
+    "~syncthing~Python.md.tmp",
+    "~syncthing~python - dir().md.tmp",
+    "Ошибка Filename too long.md",
+    "Ось джойстика с++.md",
+    "Скалятор с++.md",
+    "Git.md",
+    "Computer science.md",
+    "Написание плагинов.md",
+    "CAN.md",
+    "files/Pasted image 20241115135544.png",
+    "files/Pasted image 20241115135322.png",
+    "files/Pasted image 20241115135307.png",
+    "files/Pasted image 20241115135247.png",
+    "files/Pasted image 20241115135220.png",
+    "files/Pasted image 20241115135201.png",
+    "Автомобильные системы.md",
+    "Разновидности ПО.md",
+    "Start.md",
+    "Embedded.md",
+    "UDS.md",
+    "DoIP.md",
+    "files/Pasted image 20241115132942.png",
+    "files/Pasted image 20241115132921.png",
+    "Мусоровоз.md",
+    "files/SAEJ1939_71_март2011.pdf",
+    "J1939.md",
+    "RG.md",
+    "STM32.md",
+    "FreeRTOS.md",
+    "files/Pasted image 20241016200337.png",
+    "Нормативная документация.md",
+    "~syncthing~OTUS.md.tmp",
+    "files/Pasted image 20241016200229.png",
+    "Без названия.canvas",
+    "Untitled.canvas"
+  ]
+}

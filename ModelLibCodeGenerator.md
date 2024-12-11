@@ -1,0 +1,1 @@
+Путь до логов `C:\Users\MZadneprovskiy\AppData\Local\ModelLibCodeGenerator\app-x.x.x`
